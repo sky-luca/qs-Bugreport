@@ -9,7 +9,7 @@ This is a **Bug Reporting System** designed for FiveM servers. It allows players
 - **Bug Report Creation**: Players can include details like the bug description, steps to reproduce, category, priority, contact information, and coordinates.
 - **Admin Notifications**: Admins are notified via an on-screen notification when a new bug report is created.
 - **Discord Logging**: Each bug report is logged in a designated Discord channel with an embed that includes important report details.
-- **Bug Report Status Management**: Admins can update the status of bug reports to keep track of progress.
+
 
 ## Setup Instructions
 
@@ -56,7 +56,6 @@ Admins must have the `bugreport.notify` permission to use the bug report managem
 ## Commands
 
 - **/bugreport**: Opens the bug report menu for players. Players will be able to submit bug reports through this menu.
-- **/bugreportsetstatus [ticketId]**: Allows admins to set the status of a specific bug report by using its ID.
 
 ### Example Usage
 
@@ -69,8 +68,6 @@ Admins must have the `bugreport.notify` permission to use the bug report managem
      - Contact info
      - Coordinates (if applicable)
 
-2. **Admin sets the status of a bug report**:
-   - Admins can use `/bugreportsetstatus [ticketId]` to open a menu that allows them to manage the status of the bug report.
 
 ## Discord Integration
 
