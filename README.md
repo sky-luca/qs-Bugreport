@@ -10,6 +10,9 @@ This is a **Bug Reporting System** designed for FiveM servers. It allows players
 - **Admin Notifications**: Admins are notified via an on-screen notification when a new bug report is created.
 - **Discord Logging**: Each bug report is logged in a designated Discord channel with an embed that includes important report details.
 
+  ## Preview:
+- https://youtu.be/ZeLfhMlYZGY
+
 
 ## Setup Instructions
 
